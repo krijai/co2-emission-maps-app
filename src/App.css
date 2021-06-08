@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.co2-main-content {
+  text-align: center;
+}
+
+.slider-year {
+  text-align: center;
+}
+
+.makeStyles-root-1 {
+  margin: 0 auto;
+}
